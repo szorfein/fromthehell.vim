@@ -61,7 +61,7 @@ hi PreProc guifg=#ffbd2e guibg=NONE guisp=NONE gui=NONE ctermfg=214 ctermbg=NONE
 hi Visual guifg=#192224 guibg=#F9F9FF guisp=#F9F9FF gui=NONE ctermfg=235 ctermbg=189 cterm=NONE
 hi MoreMsg guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi SpellCap guifg=#F9F9FF guibg=#192224 guisp=#192224 gui=underline ctermfg=189 ctermbg=235 cterm=underline
-hi VertSplit guifg=#192224 guibg=#5E6C70 guisp=#5E6C70 gui=bold ctermfg=235 ctermbg=66 cterm=bold
+hi VertSplit guifg=#192224 guibg=#5f875f guisp=#5f875f gui=bold ctermfg=235 ctermbg=65 cterm=bold
 hi Exception guifg=#BD9800 guibg=NONE guisp=NONE gui=bold ctermfg=1 ctermbg=NONE cterm=bold
 hi Keyword guifg=#e3cb6b guibg=NONE guisp=NONE gui=bold ctermfg=179 ctermbg=NONE cterm=bold
 hi Type guifg=#a36d62 guibg=NONE guisp=NONE gui=bold ctermfg=131 ctermbg=NONE cterm=bold

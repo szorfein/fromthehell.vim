@@ -21,7 +21,6 @@ And run into vim:
     $ cd ~/.vim/bundle
     $ git clone https://github.com/szorfein/fromthehell.vim
 
-
 ## Configuration
 
 Just edit your `~/.vimrc` to add:
@@ -36,3 +35,7 @@ The background color use your terminal bg, so you may use this: (e.g for kitty)
 ---
 
 ![Screenshot](https://raw.githubusercontent.com/szorfein/fromthehell.vim/master/screenshot.jpg "screenshot")
+
+### Links
++ [show all the 256 vim colors](http://www.calmar.ws/vim/256-xterm-24bit-rgb-color-chart.html)
++ [theme generator devify](http://bytefluent.com/devify/)
